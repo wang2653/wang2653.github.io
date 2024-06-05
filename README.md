@@ -1,61 +1,55 @@
-# Chirpy Starter
+# Yifan Wang's Personal Website
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my personal website! Here you'll find information about my education, technical skills, internship experience, projects, and extracurricular activities.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Contact Information
+- **Phone:** 437-353-6168
+- **Email:** [yfan.wang@mail.utoronto.ca](mailto:yfan.wang@mail.utoronto.ca)
+- **LinkedIn:** [linkedin.com/in/yifan-wang-439288234](https://www.linkedin.com/in/yifan-wang-439288234)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Education
+**University of Toronto**  
+*Sept. 2021 – May 2026 (expected)*  
+Bachelor of Applied Science in Computer Engineering + PEY Co-op  
+- **Intended minor:** Artificial Intelligence, Engineering Business  
+- **Relevant courses:** Algorithms and Data Structures, Programming Fundamentals (C, C++, Python), Operating Systems, Communication and Design, Digital Systems, Computer Organization
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Technical Skills
+- **Programming Languages:** C++, C, Python, MySQL, MATLAB, Verilog, ARM Assembly Code
+- **Tools and Technologies:** Git, Axure RP, Midjourney, Stable Diffusion, Control Net, Quartus, Multisim, Logithm, Ltspice, Microsoft Office, Photoshop (PS), Premiere Pro (PR)
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## Internship Experience
+**Project Manager, Shengshu Technology Co. Ltd, Beijing, China**  
+*May 2023 – Sep 2023*  
+- Led the development of an AI image generation website from concept to implementation.
+- Designed a comprehensive Parenting and AI-related drawing prototype using Axure RP and collaborated with both frontend and backend teams for implementation.
+- Trained and iterated existing text-to-image models, focusing on graphic design and Chinese style models.
+- Assisted in product quality testing and communicated feedback to the development teams.
+- Managed the product internal test group, organized events to gather user preferences, and documented product defects and requirements.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Projects
+**Product Manager, Map Application Project, University of Toronto, Toronto, ON**  
+*Jan 2023 – Apr 2023*  
+- Developed a large-scale mapping program similar to Google Maps in C++, utilizing the OSM (OpenStreetMap) database and API.
+- Implemented algorithms such as Dijkstra’s, A*, and 2-opt for pathfinding and optimal direction finding.
+- Utilized the GTK toolkit and EZGL graphics package to design an interactive map interface.
 
-## Prerequisites
+**Product Manager, Engineering Strategies & Practices Project II, University of Toronto, Toronto, ON**  
+*Jan 2022 – Apr 2022*  
+- Managed a team project to design technology for stimulus generation for behavioral interventions.
+- Developed an interactive website to assist children aged 5-12 with autism in daily communication.
+- Effectively allocated tasks using a Gantt Chart and maintained team communication.
+- Presented the project proposal to clients and engineering managers, receiving high praise.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
+## Extracurricular Activities
+**Internal Associate Vice-President, Association of Chinese Engineers (UTACE), University of Toronto, Toronto, ON**  
+*May 2022 – Present*  
+- Participated in organizing the First-year Student Orientation event.
+- Maintained cooperative relationships with sponsors.
+- Coordinated department activities and facilitated collaboration among different teams.
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## Acknowledgments
+Thanks to all the mentors, teammates, and professors who have supported my academic and professional journey.
