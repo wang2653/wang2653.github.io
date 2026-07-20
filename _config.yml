@@ -15,7 +15,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Yifan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Science (Advanced) student at University of Sydney"
