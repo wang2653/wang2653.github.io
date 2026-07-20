@@ -15,9 +15,9 @@
   padding-right: 2em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
-          animation-delay: 0.30s;
+  animation-delay: 0.30s;
 
   @include breakpoint($large) {
     padding-left: 1em;
@@ -158,10 +158,10 @@
   }
 }
 
-.page__content + .pagination,
-.page__meta + .pagination,
-.page__share + .pagination,
-.page__comments + .pagination {
+.page__content+.pagination,
+.page__meta+.pagination,
+.page__share+.pagination,
+.page__comments+.pagination {
   margin-top: 2em;
   padding-top: 2em;
   border-top: 1px solid var(--global-border-color);
@@ -248,14 +248,16 @@
         -webkit-transition: $global-transition;
         transition: $global-transition;
         -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+        -ms-transform: scaleX(0);
+        transform: scaleX(0);
+        /* hide*/
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+        -ms-transform: scaleX(1);
+        transform: scaleX(1);
+        /* reveal*/
       }
     }
   }
@@ -422,19 +424,19 @@
     }
   }
 
-  > li:last-child {
+  >li:last-child {
     a {
       border-bottom: none;
     }
   }
 
-  li ul > li a {
+  li ul>li a {
     padding-left: 2rem;
     font-weight: normal;
   }
 
   /* hide sub sub links on small screens*/
-  li > ul li {
+  li>ul li {
     display: none;
 
     @include breakpoint($medium) {

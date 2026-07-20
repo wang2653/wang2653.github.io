@@ -39,18 +39,31 @@ redirect_from:
   * Designed high-fidelity prototypes using Axure RP and Figma, and conducted comprehensive testing on iOS platforms.
 
 ## Projects
-* **AI Agent Developer | Real-Time AI Trend Catcher**, *May 2026 - July 2026*
+* **AI Agent Developer, Real-Time AI Trend Catcher**, *May 2026 - July 2026*
   * Built a multi-agent AI system using the OpenAI Agents SDK to collect, analyze, and summarize AI trends from multiple data sources.
   * Designed a modular Curator–Analyst–Summarizer–Writer agent pipeline with memory management for context-aware report generation.
   * Implemented Server-Sent Events (SSE) for real-time visualization of agent workflows and streaming responses.
   * Developed robust LLM output validation and error recovery, improving reliability through structured JSON parsing and fallback mechanisms.
   * Tech Stack: Python, React, Node.js, OpenAI Agents SDK, LLMs, SSE, Zod, Prompt Engineering
 
-* **Project Leader | Intelligent Emergency Department Task Scheduler**, University of Toronto, *Sep 2024 - Jun 2025*
+* **Project Leader, Intelligent Emergency Department Task Scheduler**, University of Toronto, *Sep 2024 - Jun 2025*
   * Architected a high-fidelity simulation environment using Python to model complex Emergency Department workflows, designing sophisticated state-space representations and stochastic models based on CTAS 1–5 triage mechanisms.
   * Engineered an intelligent scheduling agent utilizing DQN reinforcement learning; integrated Experience Replay and Epsilon-Greedy policies to optimize dynamic patient-to-resource matching decisions in volatile environments.
   * Developed a full-stack web interface for real-time patient status visualization and physician authentication.
   * Delivered measurable clinical impact, achieving a 50% reduction in average wait times and slashing high-priority patient timeout rates from 43.9% to 4.6% compared to traditional rule-based scheduling algorithms.
+
+* **Project Leader, Urban Feature Semantic Segmentation**, University of Toronto, *Sep 2023 - Dec 2023*
+  * Led a 3-person team to perform pixel-level semantic segmentation of vehicles and other urban features using UNet and ViT models.
+  * Enhanced model generalization by implementing a customized decoder architecture on top of the ViT backbone.
+  * Independently collected and annotated a representative urban image dataset, ensuring rigorous train-test splitting.
+  * Achieved precise pixel-level classification with over 80% Intersection over Union (IoU) accuracy on unseen test images.
+
+* **Developer, Interactive Map Navigation Application**, University of Toronto, *Jan 2023 - Apr 2023*
+  * Co-developed a Google Maps-style application with comprehensive geographic rendering and navigation capabilities. 
+  * Implemented Dijkstra's, A*, and 2-opt pathfinding algorithms in C++ to optimize routing efficiency and accuracy.
+  * Utilized the OpenStreetMap (OSM) database and APIs for map rendering, collaborating within a 3-person team using Git for version control.
+  * Designed an intuitive UI using Glade, GTK, GDK, and the EZGL graphics package, and integrated real-time weather data to enhance user experience.
+  * Delivered a fully functional and user-friendly application, ranking in the top 30% on the university's project leaderboard.
 
 ## Extracurricular & Volunteer Activities
 * **Internal Associate Vice-President**, Association of Chinese Engineers (UTACE), University of Toronto, *May 2022 - May 2025*
